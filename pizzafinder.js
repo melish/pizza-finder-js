@@ -25,4 +25,4 @@
 		nodeList.push(treeWalker.currentNode.parentNode);
 	} 
 	console.log(nodeList);
-})(['bacon', 'mozzarella'], ['pui', 'ananas', 'ou'])
+})(['mozzarella'], ['pui', 'ananas', 'ou', 'rucola', 'dovlecei', 'anghinare', 'patrunjel', 'ansoa', 'capere', 'feta', 'ton', 'somon', 'fasole', 'smantana', 'sprot'])
